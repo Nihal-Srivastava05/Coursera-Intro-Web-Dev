@@ -26,18 +26,22 @@ p {
 	float: right;
 	background-color: #f08a99;
 	border: 1px solid black;
+	padding: 5px 15px 5px 15px;
 }
 
 #title2{
 	float: right;
-	background-color: #F75D59;
+	background-color: #E41B17;
 	border: 1px solid black;
+	color: white;
+	padding: 5px 15px 5px 15px;
 }
 
 #title3{
 	float: right;
 	background-color: #FFDB58;
 	border: 1px solid black;
+	padding: 5px 15px 5px 15px;
 }
 
 /** desktop **/
